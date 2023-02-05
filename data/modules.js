@@ -1,0 +1,97 @@
+const modules = [
+  {
+    name: "Dashboard",
+    slug: "dashboard",
+    icon: "pie-chart",
+    createdAt: new Date(),
+    updatedAt: new Date(),
+  },
+  {
+    name: "Orders",
+    slug: "orders",
+    icon: "truck",
+    createdAt: new Date(),
+    updatedAt: new Date(),
+  },
+  {
+    name: "Roles",
+    slug: "roles",
+    icon: "lock",
+    createdAt: new Date(),
+    updatedAt: new Date(),
+  },
+  {
+    name: "Users",
+    slug: "users",
+    icon: "users",
+    createdAt: new Date(),
+    updatedAt: new Date(),
+  },
+  {
+    name: "Customers",
+    slug: "customers",
+    icon: "user-plus",
+    createdAt: new Date(),
+    updatedAt: new Date(),
+  },
+  {
+    name: "Brands",
+    slug: "brands",
+    icon: "tag",
+    createdAt: new Date(),
+    updatedAt: new Date(),
+  },
+  {
+    name: "Collections",
+    slug: "collections",
+    icon: "package",
+    createdAt: new Date(),
+    updatedAt: new Date(),
+  },
+  {
+    name: "Menus",
+    slug: "menus",
+    icon: "list",
+    createdAt: new Date(),
+    updatedAt: new Date(),
+  },
+  {
+    name: "Products",
+    slug: "products",
+    icon: "grid",
+    createdAt: new Date(),
+    updatedAt: new Date(),
+  },
+  {
+    name: "Attributes",
+    slug: "attributes",
+    icon: "tag",
+    createdAt: new Date(),
+    updatedAt: new Date(),
+  },
+  {
+    name: "Question",
+    slug: "question",
+    icon: "grid",
+    createdAt: new Date(),
+    updatedAt: new Date(),
+  },
+  {
+    name: "Reviews",
+    slug: "reviews",
+    icon: "truck",
+    createdAt: new Date(),
+    updatedAt: new Date(),
+  },
+  {
+    name: "Banners",
+    slug: "banners",
+    icon: "grid",
+    createdAt: new Date(),
+    updatedAt: new Date(),
+  },
+];
+
+module.exports = {
+  modules,
+};
